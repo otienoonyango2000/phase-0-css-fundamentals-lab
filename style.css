@@ -3,3 +3,75 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+.Link{
+  text-align: center;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: grey;
+  margin: auto;
+}
+
+#link{
+  text-align: center;
+  
+}
+
+#head{
+  position: absolute;
+  margin: auto;
+  padding-left: 450px;
+  
+}
+
+#img{
+  padding-top: 20px;
+}
+
+
+#featured-property{
+  width: 800px;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+
+}
+.p{
+  font-size: 15px;
+  text-align: center;
+  padding-left: 50px;
+  width: 800px;
+}
+
+
+#font-size{
+  font-size: 12px;
+}
+
+#details{
+  width: 100%;
+  margin: auto;
+  font-family: Helvetica Neue;
+  background: red;
+  padding-left: 20px;
+  display: flex;
+  /*float: left;*/
+  
+}
+.flex{
+  width: 25%;
+  margin-left: 85px;
+  margin-top: 27px;
+  font-size: 12px;
+  padding-left: 50px;
+
+}
+#shrink{
+  height: auto;
+  width: 900px;
+  align-items: center;
+  margin: auto;
+  
+}
